@@ -1,5 +1,5 @@
-Two Sum problem
------------------
+//Two Sum problem
+//-----------------
 
 class Solution {
 public:
