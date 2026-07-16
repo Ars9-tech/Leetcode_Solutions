@@ -1,5 +1,5 @@
-N-queen Problem
-----------------
+//N-queen Problem
+//----------------
 
 class Solution {
 public:
