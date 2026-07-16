@@ -1,5 +1,5 @@
-Pow(x,n)
---------
+//Pow(x,n)
+//--------
 
 class Solution {
 public:
